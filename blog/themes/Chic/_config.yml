@@ -15,7 +15,7 @@ favicon: /favicon.svg
 nickname: Bonismo
 
 ### this variable is MarkDown form.
-description: Do one things with ten years .
+description: <br>**Do one things with ten years .**
 avatar: /image/avatar.jpg
 
 # main menu navigation
@@ -26,14 +26,14 @@ links:
   Blog: /archives
   # Category:
   # Tags:
-  # Link:
+  Link: http://notebook.bonismo.ink/
   # Resume:
   # Publish:
   # Trophy:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu:
+#  ZhiHu:
   # LinkedIn:
   # FaceBook:
   # Twitter:
@@ -43,12 +43,12 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+#  Instagram:
+#  Reddit:
   # YouTube:
   # QQ:
-  Weibo:
-  WeChat:
+#  Weibo:
+#  WeChat:
   Github: https://github.com/StayHungryStayFoolish
 
 # how links show: you have 2 choice--text or icon.
